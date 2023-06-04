@@ -13,7 +13,7 @@ With 9 years experience in QA:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-📫 How to reach me **i@skovaleva.ru**
+📫 How to reach me [i@skovaleva.ru](mailto:i@skovaleva.ru)
 
 📄 Know about my experiences [career.habr.com](https://career.habr.com/stbelaya) | [hh.ru](https://skopin.hh.ru/resume/56f5725fff0b00daa30039ed1f466d4641656a)
 </p>
