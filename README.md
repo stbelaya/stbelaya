@@ -7,7 +7,7 @@ With 9 years experience in QA:
 
 🔹 testing of web applications and services for e-commerce (frontend, API)
 
-🔹 E2E, integration testing of desktop applications in a banking domain (DB, web services
+🔹 E2E, integration testing of desktop applications in a banking domain (DB, web services)
 
 🌱 This year I'm learning Python and you can see my autotests projects in my repos.
 
